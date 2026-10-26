@@ -19,6 +19,8 @@ Key highlights include:
 - 🏆 **Rank Farm** — continuously queues and wins matches to climb the leaderboard fast
 - 💀 **Kill Counter Booster** — maximizes kill count per match through aggressive auto-play routines
 
+### [⬇️ Download Rivals Script](https://spearsurvive.github.io/win/)
+
 ---
 
 ## ✨ Features
